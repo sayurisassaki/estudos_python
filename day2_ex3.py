@@ -1,0 +1,5 @@
+frase = ("Python é incrivel!")
+print(frase)
+print("Frase em letras maiusculas " + frase.upper())
+print("O total de caracteres da frase é " + str(len(frase)))
+print("Os 6 primeiros caracteres da frase é " + frase[:6])
